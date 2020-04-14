@@ -1,5 +1,5 @@
 # Joke Generator
 
-Joke generator with a modal that reveals punchline.
+Joke generator with a modal that reveals the punchline.
 
 Using javascript

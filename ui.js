@@ -1,6 +1,6 @@
 class UI {
   constructor() {
-    this.setup = document.getElementById('lead');
+    this.setup = document.getElementById('setup');
     this.punchline = document.getElementById('punchline');
   }
 

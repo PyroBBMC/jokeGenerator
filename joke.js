@@ -1,6 +1,6 @@
 class Joke {
   constructor() {
-    this.lead = document.getElementById('lead');
+    this.lead = document.getElementById('setup');
     this.punchline = document.getElementById('punchline');
   }
 
